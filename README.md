@@ -29,3 +29,6 @@ Compares the provided password against the stored password in the CSV file.
 Users can opt for a spa package in addition to their hotel booking.
 
 Generates a confirmation message for the hotel and spa booking
+
+# Note: This project is solely created for practicing Object-Oriented Programming (OOP) concepts.
+
